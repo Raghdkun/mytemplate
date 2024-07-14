@@ -6,7 +6,6 @@ import 'package:get/get.dart';
 import 'package:mytemplate/core/services/service.dart';
 import 'package:mytemplate/routes/app_route.dart';
 import 'package:mytemplate/theme/app_theme.dart';
-
 import 'localization/applocalizations.dart';
 
 void main() async {
